@@ -1,0 +1,14 @@
+{
+  "name": "coldrun",
+  "version": "1.0.0",
+  "description": "cypress api tests for case study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karol Macheta",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
