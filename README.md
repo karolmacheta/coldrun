@@ -1,6 +1,6 @@
 # coldrun
 
-![alt text](https://github.com/karolmacheta/coldrun/blob/master/tests.jpg)
+![alt text](https://github.com/karolmacheta/coldrun/blob/main/tests.jpg)
 
 Task Desc:
 
